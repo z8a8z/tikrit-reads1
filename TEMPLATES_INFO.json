@@ -1,0 +1,303 @@
+[
+  {
+    "id": "minimal-1.0.0",
+    "folder_name": "minimal-1.0.0",
+    "display_name": "Minimalist Agency & Modern Business",
+    "categories": [
+      "Corporate",
+      "Agency",
+      "Manufacturing",
+      "Modern",
+      "Creative",
+      "Product"
+    ],
+    "description": "Clean, contemporary design with smooth typography, feature grids, and project showcase sections. Perfect for modern enterprises, manufacturing groups, and creative agencies.",
+    "tags": [
+      "modern",
+      "clean",
+      "agency",
+      "corporate",
+      "manufacturing",
+      "showcase"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "novena",
+    "folder_name": "novena",
+    "display_name": "Novena Corporate & Professional Services",
+    "categories": [
+      "Corporate",
+      "Healthcare",
+      "Medical",
+      "Clinic",
+      "Enterprise",
+      "Consulting"
+    ],
+    "description": "Structured, trustworthy corporate layout with multi-page support, department/service breakdowns, appointment forms, and team sections.",
+    "tags": [
+      "corporate",
+      "enterprise",
+      "healthcare",
+      "services",
+      "multi-page",
+      "formal"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "JohnDoe-gh-pages",
+    "folder_name": "JohnDoe-gh-pages",
+    "display_name": "John Doe Personal Brand & Portfolio",
+    "categories": [
+      "Personal Brand",
+      "Freelancer",
+      "Portfolio",
+      "Consultant",
+      "Creative"
+    ],
+    "description": "High-impact single-page portfolio with prominent hero header, about breakdown, skills/services timeline, and interactive contact section.",
+    "tags": [
+      "portfolio",
+      "personal",
+      "freelance",
+      "resume",
+      "compact",
+      "single-page"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "Clinic-1.0.0",
+    "folder_name": "Clinic-1.0.0",
+    "display_name": "Clinic Healthcare & Medical Center",
+    "categories": [
+      "Healthcare",
+      "Medical",
+      "Clinic",
+      "Hospital",
+      "Wellness",
+      "Corporate"
+    ],
+    "description": "Comprehensive healthcare and clinical services template with appointment booking, doctor profiles, department details, emergency response info, and patient testimonials.",
+    "tags": [
+      "healthcare",
+      "medical",
+      "clinic",
+      "hospital",
+      "doctor",
+      "appointment",
+      "wellness"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "Hilux-1.0.0",
+    "folder_name": "Hilux-1.0.0",
+    "display_name": "Hilux Luxury Real Estate & Property Showcase",
+    "categories": [
+      "Real Estate",
+      "Architecture",
+      "Property",
+      "Luxury",
+      "Corporate"
+    ],
+    "description": "Premium real estate and property agency template featuring interactive property search, agent profiles, floor plans, video hero, and property detail pages.",
+    "tags": [
+      "real estate",
+      "property",
+      "realtor",
+      "luxury",
+      "apartments",
+      "housing",
+      "architecture"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "Mueller_1_0_0",
+    "folder_name": "Mueller_1_0_0",
+    "display_name": "Mueller Creative Agency & Design Studio",
+    "categories": [
+      "Creative",
+      "Agency",
+      "Portfolio",
+      "Design",
+      "Modern"
+    ],
+    "description": "Bold, expressive design studio and creative agency layout with interactive portfolio grid, client logo marquee, case study highlights, and sleek typography.",
+    "tags": [
+      "creative",
+      "agency",
+      "portfolio",
+      "design",
+      "studio",
+      "branding"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "feane-1.0.0",
+    "folder_name": "feane-1.0.0",
+    "display_name": "Feane Gourmet Restaurant & Fast Food",
+    "categories": [
+      "Restaurant",
+      "Food & Beverage",
+      "Hospitality",
+      "Cafe",
+      "Retail"
+    ],
+    "description": "Vibrant culinary template designed for restaurants, cafes, and food delivery services with dynamic menu filters, online table booking, customer reviews, and discount offers.",
+    "tags": [
+      "restaurant",
+      "food",
+      "dining",
+      "fast food",
+      "burger",
+      "menu",
+      "booking",
+      "cafe"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "folio-tailwind-1.0.0",
+    "folder_name": "folio-tailwind-1.0.0",
+    "display_name": "Folio Tailwind UI/UX Designer & Tech Portfolio",
+    "categories": [
+      "Personal Brand",
+      "Portfolio",
+      "Freelancer",
+      "Tech",
+      "Creative"
+    ],
+    "description": "Ultra-fast modern portfolio built with Tailwind CSS and Alpine.js. Features dark/light mode toggle, case studies, blog articles, interactive project cards, and clean typography.",
+    "tags": [
+      "portfolio",
+      "tailwind",
+      "alpine",
+      "developer",
+      "designer",
+      "dark-mode",
+      "minimal"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "furnish-1.0.0",
+    "folder_name": "furnish-1.0.0",
+    "display_name": "Furnish Modern Home Decor & Furniture Store",
+    "categories": [
+      "eCommerce",
+      "Retail",
+      "Furniture",
+      "Home Decor",
+      "Product"
+    ],
+    "description": "Elegant eCommerce storefront for furniture and interior design brands. Includes hero carousel sliders, product grid with filters, testimonials, quick view modal, and responsive offcanvas menu.",
+    "tags": [
+      "ecommerce",
+      "store",
+      "furniture",
+      "interior",
+      "shop",
+      "decor",
+      "bootstrap"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "html5up-ethereal",
+    "folder_name": "html5up-ethereal",
+    "display_name": "Ethereal Horizontal Storytelling & Showcase",
+    "categories": [
+      "Creative",
+      "Portfolio",
+      "Photography",
+      "Art",
+      "Personal Brand"
+    ],
+    "description": "Unique horizontal-scrolling showcase with immersive visual storytelling panels, gallery lightbox, modular panel layouts, and smooth navigation.",
+    "tags": [
+      "creative",
+      "horizontal-scroll",
+      "storytelling",
+      "photography",
+      "gallery",
+      "portfolio"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "monoline-1.0.0",
+    "folder_name": "monoline-1.0.0",
+    "display_name": "Monoline Corporate Agency & Business Solutions",
+    "categories": [
+      "Corporate",
+      "Agency",
+      "Consulting",
+      "Tech",
+      "Business"
+    ],
+    "description": "Sophisticated corporate and digital agency template with multi-page structure, video background sections, case studies, pricing tables, team showcase, and service breakdowns.",
+    "tags": [
+      "agency",
+      "corporate",
+      "consulting",
+      "business",
+      "pricing",
+      "services",
+      "multipage"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "purdue-1.0.0",
+    "folder_name": "purdue-1.0.0",
+    "display_name": "Purdue Academy, Courses & Education Hub",
+    "categories": [
+      "Education",
+      "Academy",
+      "Online Courses",
+      "University",
+      "Training"
+    ],
+    "description": "Comprehensive academic and eLearning portal template with course catalogs, instructor profiles, event management, blog, eCommerce course shop, and student registration.",
+    "tags": [
+      "education",
+      "courses",
+      "academy",
+      "learning",
+      "university",
+      "school",
+      "training"
+    ],
+    "entry_html": "index.html"
+  },
+  {
+    "id": "icons",
+    "folder_name": "icons",
+    "display_name": "Cobalt Vector Icons Studio & Asset Library",
+    "categories": [
+      "Assets",
+      "Icons",
+      "Design",
+      "Graphics",
+      "UI Elements",
+      "Utility"
+    ],
+    "description": "Comprehensive library of 1,850+ clean, modern Lucide SVG vector icons with interactive instant search, 40+ category filters, stroke/size controls, and 1-click SVG/HTML code copy.",
+    "tags": [
+      "icons",
+      "svg",
+      "vector",
+      "lucide",
+      "ui",
+      "symbols",
+      "graphics",
+      "assets",
+      "library"
+    ],
+    "entry_html": "index.html"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "category": "Logo",
+    "title": "Brand Logo",
+    "description": "Brand visual mark",
+    "relative_path": "assets\\logo\\logo_لقطة_الشاشة_2026-10-06_202637.webp",
+    "original_filename": "لقطة الشاشة 2026-10-06 202637.png"
+  },
+  {
+    "category": "Team",
+    "title": "Photo: الاستاذ مصطفى الرستم",
+    "description": "Role: المؤسس والمدير العام",
+    "relative_path": "assets\\team\\الاستاذ_مصطفى_الرستم_photo_5346333972935417346_y.webp",
+    "original_filename": "photo_5346333972935417346_y.jpg"
+  }
+]

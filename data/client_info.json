@@ -1,0 +1,95 @@
+{
+  "business_name": "تكريت تقرأ",
+  "business_name_enabled": true,
+  "client_name": "الاستاذ مصطفى الرستم",
+  "client_name_enabled": true,
+  "tagline": "مجتمع يقرأ.. أمة ترتقي",
+  "tagline_enabled": true,
+  "year_established": "2017",
+  "year_established_enabled": true,
+  "business_history": "تأسست \"مكتبة تكريت تقرأ\" كمنصة ثقافية وخدمية تهدف إلى تشجيع القراءة ونشر الثقافة . بدأنا كفكرة لجمع شمل القراء وتوفير أحدث الكتب والروايات العالمية والمحلية بأسعار مناسبة مع خدمة توصيل سريعة، واليوم نسعى لنكون الوجهة الأولى لكل عاشقا للكتب ومحباً للمعرفة في المحافظة.",
+  "business_history_enabled": true,
+  "phone_numbers": [
+    {
+      "type": "WhatsApp",
+      "value": "0770 758 0936"
+    }
+  ],
+  "phone_numbers_enabled": true,
+  "email_addresses": [
+    {
+      "type": "General",
+      "value": ""
+    }
+  ],
+  "email_addresses_enabled": false,
+  "physical_address": "صلاح الدين-تكريت-شارع الزهور",
+  "physical_address_enabled": true,
+  "google_maps_url": "https://maps.app.goo.gl/xqAdiArez9WNcaD96",
+  "google_maps_enabled": true,
+  "social_links": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/tikrit.reads"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@tikrit.reads"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/tikrit.reads"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/Tikrit_reads"
+    }
+  ],
+  "social_links_enabled": true,
+  "work_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "open_time": "10:00 AM",
+  "close_time": "10:00 PM",
+  "hours_notes": "",
+  "business_hours_enabled": true,
+  "logo_path": "C:/Users/pvphq/OneDrive/الصور/لقطة الشاشة 2026-10-06 202637.png",
+  "logo_enabled": true,
+  "offerings": [
+    {
+      "name": "",
+      "description": "",
+      "price": "",
+      "image_path": ""
+    }
+  ],
+  "offerings_enabled": false,
+  "team_members": [
+    {
+      "name": "الاستاذ مصطفى الرستم",
+      "role": "المؤسس والمدير العام",
+      "bio": "",
+      "image_path": "C:/Users/pvphq/Downloads/photo_5346333972935417346_y.jpg",
+      "rel_image_path": "assets\\team\\الاستاذ_مصطفى_الرستم_photo_5346333972935417346_y.webp"
+    }
+  ],
+  "team_members_enabled": true,
+  "gallery_images": [],
+  "gallery_images_enabled": false,
+  "context_images": [
+    {
+      "image_path": "C:/Users/pvphq/OneDrive/الصور/لقطة الشاشة 2026-10-06 205539.png",
+      "title": "",
+      "description": "",
+      "rel_image_path": "context_images\\context_1_لقطة_الشاشة_2026-10-06_205539.webp"
+    }
+  ],
+  "context_images_enabled": true,
+  "logo_rel_path": "assets\\logo\\logo_لقطة_الشاشة_2026-10-06_202637.webp"
+}
